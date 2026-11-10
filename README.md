@@ -1,2 +1,2 @@
-# 0002---HTML-Notes
+# 0002 - Welcome to my HTML-Notes
 This is my full notes for Responsive Web Design
